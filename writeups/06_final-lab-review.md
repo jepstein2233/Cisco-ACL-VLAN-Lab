@@ -1,1 +1,1 @@
-
+This lab demonstrated VLAN creation, trunking, Router-on-a-Stick configuration, DHCP services, inter-VLAN routing, and ACL-based traffic control using FastEthernet ports on a Cisco 2960 switch. The final network successfully supported segmentation, dynamic addressing, routing, and security filtering. 
