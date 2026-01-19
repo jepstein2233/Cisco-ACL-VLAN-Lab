@@ -1,1 +1,1 @@
-
+To enable inter-VLAN routing, I configured Router-on-a-Stick. I created two subinterfaces on GigabitEthernet0/0, each tagged with the appropriate VLAN ID. Each subinterface was assigned an IP address that serves as the default gateway for its VLAN.
