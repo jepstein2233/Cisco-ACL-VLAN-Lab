@@ -1,1 +1,1 @@
-
+I created VLAN 10 and VLAN 20 on the switch and assigned names to each (HOME & LAB). FastEthernet0/2 was configured as an access port for VLAN 10, and FastEthernet0/3 was configured as an access port for VLAN 20. The uplink port to the router, FastEthernet0/1, was configured as a trunk port to carry traffic for VLAN 10 and VLAN 20.
