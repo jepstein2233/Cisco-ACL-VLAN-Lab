@@ -1,1 +1,1 @@
-
+I created the physical topology in Cisco Packet Tracer by adding a router, a 2960 switch, and two PCs. I connected the router’s GigabitEthernet0/0 interface to the switch’s FastEthernet0/1 port. PC1 was connected to FastEthernet0/2 and PC2 was connected to FastEthernet0/3. This established the physical foundation for VLAN segmentation and inter-VLAN routing.
