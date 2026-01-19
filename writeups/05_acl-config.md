@@ -1,1 +1,1 @@
-
+To demonstrate basic network security, I created an ACL that blocks VLAN 20 from initiating traffic toward VLAN 10. The ACL was applied to inbound traffic on the VLAN 20 subinterface. Testing confirmed that VLAN 20 could no longer reach VLAN 10, while VLAN 10 retained access to VLAN 20.
